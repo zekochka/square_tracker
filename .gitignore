@@ -4,3 +4,4 @@ out
 *.tsbuildinfo
 .env*.local
 /data/squares.json
+Kvadrat Portable.exe
